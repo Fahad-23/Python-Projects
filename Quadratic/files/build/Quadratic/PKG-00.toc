@@ -1,0 +1,51 @@
+('C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+ 'Projects\\Quadratic\\build\\Quadratic\\Quadratic.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\build\\Quadratic\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Fahad\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Fahad\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('Quadratic',
+   'C:\\Users\\Fahad\\OneDrive\\Desktop\\Python '
+   'Projects\\Quadratic\\Quadratic.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
